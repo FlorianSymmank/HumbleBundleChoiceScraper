@@ -6,3 +6,5 @@ wait for script to finish
 copy results from console  
 
 dont @me for this beeing crappy
+
+key and entitlement scraping by [somazx/scraper.js](https://gist.github.com/somazx/cd2f7064faf484589f9bf5bf7bb26774)
